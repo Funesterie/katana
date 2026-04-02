@@ -7,13 +7,13 @@ It is built for situations like a 10k+ line `server.cjs` where you need a safe f
 ## Install
 
 ```bash
-npm i -g @funesterie/katana
+npm i -g funesterie-katana
 ```
 
 Or run it without installing:
 
 ```bash
-npx @funesterie/katana scan apps/server/server.cjs --stdout md
+npx funesterie-katana scan apps/server/server.cjs --stdout md
 ```
 
 ## What it does

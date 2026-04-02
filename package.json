@@ -1,11 +1,11 @@
 {
-  "name": "@funesterie/katana",
-  "version": "0.1.0",
+  "name": "funesterie-katana",
+  "version": "0.1.1",
   "description": "CLI to slice large Node backends into route and service extraction plans.",
   "license": "MIT",
   "type": "commonjs",
   "bin": {
-    "katana": "./bin/katana.cjs"
+    "katana": "bin/katana.cjs"
   },
   "files": [
     "bin",
