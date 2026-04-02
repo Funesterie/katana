@@ -1,6 +1,6 @@
 {
   "name": "funesterie-katana",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CLI to slice large Node backends into route and service extraction plans.",
   "license": "MIT",
   "type": "commonjs",
@@ -23,5 +23,13 @@
     "analysis",
     "katana"
   ],
-  "author": "Funesterie"
+  "author": "Funesterie",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Funesterie/katana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Funesterie/katana/issues"
+  },
+  "homepage": "https://github.com/Funesterie/katana#readme"
 }
