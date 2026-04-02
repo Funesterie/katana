@@ -1,0 +1,35 @@
+{
+  "name": "@funesterie/katana",
+  "version": "0.1.0",
+  "description": "CLI to slice large Node backends into route and service extraction plans.",
+  "license": "MIT",
+  "type": "commonjs",
+  "bin": {
+    "katana": "./bin/katana.cjs"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "refactor",
+    "backend",
+    "express",
+    "codemod",
+    "analysis",
+    "katana"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Funesterie/katana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Funesterie/katana/issues"
+  },
+  "homepage": "https://github.com/Funesterie/katana#readme",
+  "author": "Funesterie"
+}
