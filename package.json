@@ -25,11 +25,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Funesterie/katana.git"
+    "url": "https://github.com/jEFFLEZ/katana.git"
   },
   "bugs": {
-    "url": "https://github.com/Funesterie/katana/issues"
+    "url": "https://github.com/jEFFLEZ/katana/issues"
   },
-  "homepage": "https://github.com/Funesterie/katana#readme",
+  "homepage": "https://github.com/jEFFLEZ/katana#readme",
   "author": "Funesterie"
 }
